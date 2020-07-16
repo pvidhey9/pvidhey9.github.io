@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Vidhey Pullakhandam
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://media-exp1.licdn.com/dms/image/C5603AQFeeC9syOkNAg/profile-displayphoto-shrink_400_400/0?e=1600300800&v=beta&t=_qKYCup4eDYDehnNirqpPoIgt2vjqlJy9NVVvvsdt_Q
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/pvidhey9/pvidhey9.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/vidhey-pullakhandam-992717105/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
